@@ -1,0 +1,8 @@
+/*
+ * ArrowUpOutline (hero-icons/ArrowUpOutline@0.0.27)
+ *
+ * Learn More: https://www.framer.com/asset-urls
+ */
+
+export * from "https://framerusercontent.com/modules/2JD7kSHNsEJJHZre2QJd/7SoXKm7mG3LZEgNpd5wg/ArrowUpOutline.js"
+export { default } from "https://framerusercontent.com/modules/2JD7kSHNsEJJHZre2QJd/7SoXKm7mG3LZEgNpd5wg/ArrowUpOutline.js"

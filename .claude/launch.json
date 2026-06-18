@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "assss6",
+      "runtimeExecutable": "python",
+      "runtimeArgs": ["-m", "http.server", "6070"],
+      "port": 6070
+    }
+  ]
+}

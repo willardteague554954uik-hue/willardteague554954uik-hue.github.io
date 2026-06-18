@@ -1,0 +1,8 @@
+/*
+ * ArrowUp (hero-icons/ArrowUp@0.0.27)
+ *
+ * Learn More: https://www.framer.com/asset-urls
+ */
+
+export * from "https://framerusercontent.com/modules/pAPybqjzq0xO5FC0Zr2Q/Mf2a5PmCztkY3FXqoGVT/ArrowUp.js"
+export { default } from "https://framerusercontent.com/modules/pAPybqjzq0xO5FC0Zr2Q/Mf2a5PmCztkY3FXqoGVT/ArrowUp.js"

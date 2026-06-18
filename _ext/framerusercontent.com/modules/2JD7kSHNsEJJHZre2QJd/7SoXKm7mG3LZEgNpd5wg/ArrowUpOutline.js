@@ -1,0 +1,1 @@
+let r;var d=e=>{if(!r){const t=({size:o=24,...n},s)=>e.createElement("svg",{fill:"none",viewBox:"0 0 24 24",stroke:"currentColor",width:o,height:o,ref:s,...n},e.createElement("path",{strokeLinecap:"round",strokeLinejoin:"round",strokeWidth:2,d:"M5 10l7-7m0 0l7 7m-7-7v18"}));r=e.forwardRef(t)}return r};export{d as default};
