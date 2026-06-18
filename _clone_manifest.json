@@ -1,0 +1,31 @@
+{
+  "start": "https://www.mason-wong.com/",
+  "root_host": "www.mason-wong.com",
+  "pages": [
+    "https://www.mason-wong.com/",
+    "https://www.mason-wong.com/home",
+    "https://www.mason-wong.com/info",
+    "https://www.mason-wong.com/work",
+    "https://www.mason-wong.com/work/lfctv-go",
+    "https://www.mason-wong.com/work/airbp",
+    "https://www.mason-wong.com/work/england-rfu",
+    "https://www.mason-wong.com/work/nationwide",
+    "https://www.mason-wong.com/work/thenorwegiancapsule",
+    "https://www.mason-wong.com/thenorwegiancapsule",
+    "https://www.mason-wong.com/work/liverpoolfc",
+    "https://www.mason-wong.com/liverpoolfc",
+    "https://www.mason-wong.com/work/global-esports",
+    "https://www.mason-wong.com/work/wild",
+    "https://www.mason-wong.com/work/think-with-google"
+  ],
+  "assets": 359,
+  "options": {
+    "max_pages": 500,
+    "max_depth": 8,
+    "html": "original",
+    "include_subdomains": false
+  },
+  "engine": "hybrid",
+  "tier": "interactive",
+  "standalone": false
+}
