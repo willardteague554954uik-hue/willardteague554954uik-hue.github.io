@@ -1,0 +1,8 @@
+{
+  "hooks": {
+    "session-start": {
+      "command": "npm list -g ruflo >/dev/null 2>&1 || npm install -g ruflo >/dev/null 2>&1; (claude mcp list 2>&1 | grep -q 'ruflo.*Connected') || claude mcp add ruflo -- ruflo mcp start",
+      "description": "Ensure ruflo is installed and connected as MCP server on CLI startup"
+    }
+  }
+}
